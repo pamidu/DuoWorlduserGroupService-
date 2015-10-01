@@ -1,0 +1,15 @@
+// $uploadImage64base=Flight::request()->getBody();
+		    
+		 //    $storeFolder = STORAGE_PATH. "/" . $namespace . "/" . $class."/";
+		 //    $data = explode(',', $uploadImage64base);
+		 //    $pieces = explode("/", $data[0]);
+		 //    $extention = explode(";", $pieces[1]);
+		 // 	$storeFileName =  $storeFolder . "/" . $id.".$extention[0]";
+			// //$type = Flight::request()->query['type'];
+			// //echo json_encode($storeFolder);
+			// if (!file_exists($storeFolder)) {
+			// 	mkdir($storeFolder);
+			// }
+
+			// $output=$this->base64_to_jpeg(($data[1]),($storeFileName));
+	
